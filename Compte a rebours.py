@@ -1,6 +1,7 @@
 import time
 #Compte a rebours
-a=60
+print("Veuillez Enter la durée du minuteur")
+a=input()
 while a != 0 :
     print(a)
     a = a-1
